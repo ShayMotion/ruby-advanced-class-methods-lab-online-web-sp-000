@@ -14,4 +14,3 @@ end
 
 def Song.create
 initialize Song.new 
-elf.class.all << self
